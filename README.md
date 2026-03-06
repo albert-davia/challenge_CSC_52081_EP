@@ -4,6 +4,7 @@ A reinforcement learning environment for optimizing turbofan engine maintenance.
 
 
 ## Latest updates:
+- 06/03: IMPORTANT: fixed the leaderboard path. Previously we passed the wrong url, sorry for this! Now it will work (see below)
 - 01/03: Added max usage limit at 100k step() calls (largely sufficient). If you need more, please reach out
 - 25/02: added score, stabilized features, increased speed
 - 18/02: updated vectorized version and some function abstraction (v0.3)
