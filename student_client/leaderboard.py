@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 
 def get_leaderboard_score(
     user_token: str,
-    server_url: str = "http://localhost:8001",
+    server_url: str = "http://rlchallenge.orailix.com",
     limit: int = 100,
     return_dataframe: bool = True
 ) -> Union[Dict[str, Any], pd.DataFrame]:
