@@ -1,0 +1,16 @@
+[project]
+name = "challenge-csc-52081-ep"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gymnasium>=0.26.0",
+    "httpx>=0.23.0",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.5.0",
+    "numpy>=1.21.0",
+    "pandas>=3.0.0",
+    "pydantic>=1.9.0",
+    "python-dotenv>=0.19.0",
+]

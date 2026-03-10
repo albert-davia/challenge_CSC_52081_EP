@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="797"
+   height="314"
+   viewBox="0 0 797 314"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="cma_sigma.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0370353"
+     inkscape:cx="367.69122"
+     inkscape:cy="190.9638"
+     inkscape:window-width="3840"
+     inkscape:window-height="2091"
+     inkscape:window-x="0"
+     inkscape:window-y="1112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs2">
+    <!-- Arrowheads -->
+    <marker
+       id="arrowBlack"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#111"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowRed"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="8"
+       markerHeight="8"
+       orient="auto">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#d11"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- Background -->
+  <rect
+     x="0"
+     y="0"
+     width="797"
+     height="314"
+     fill="#e6e6e6"
+     id="rect2"
+     style="fill:#ffffff;fill-opacity:1" />
+  <!-- Three panels -->
+  <g
+     id="g4">
+    <rect
+       x="12"
+       y="12"
+       width="773"
+       height="215"
+       fill="#dcdcdc"
+       stroke="#666"
+       stroke-width="1"
+       id="rect3" />
+    <line
+       x1="270.666"
+       y1="12"
+       x2="270.666"
+       y2="227"
+       stroke="#666"
+       stroke-width="1"
+       id="line3" />
+    <line
+       x1="529.333"
+       y1="12"
+       x2="529.333"
+       y2="227"
+       stroke="#666"
+       stroke-width="1"
+       id="line4" />
+  </g>
+  <!-- ===== Left panel: decrease sigma ===== -->
+  <path
+     d="m 70,170 2.943597,-36.66203"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path4"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 73.290723,132.81729 -23.60453,9.5723"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path5"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 49.686193,142.56316 -4.08493,32.45623"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path6"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 118.4976,159.22517 99.479312,143.95862"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path7"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 81.428789,198.63088 118.51153,159.82643"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path8"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 45.708188,175.10693 35.119336,23.8114"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path10"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="70"
+     cy="170"
+     r="6"
+     fill="#111111"
+     id="circle10"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 70,170 98,145"
+     fill="none"
+     stroke="#dd1111"
+     stroke-width="3"
+     marker-end="url(#arrowRed)"
+     id="path11"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <!-- ===== Middle panel: neutral ===== -->
+  <path
+     d="m 310,190 38.6115,-18.6115"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path12"
+     style="stroke-linecap:round"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 350,170 -0.69425,-28.26437"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path13"
+     style="stroke-linecap:round"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 350,140 49.54595,24.95274"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path14"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round" />
+  <path
+     d="M 429.39874,132.67008 405.70122,123.2977"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path15"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round" />
+  <path
+     d="m 419.06555,156.27461 9.71951,-21.4412"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path16"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round" />
+  <path
+     d="m 401.10182,165.20688 16.11421,-7.73671"
+     fill="none"
+     stroke="#111111"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="path17"
+     sodipodi:nodetypes="cc"
+     style="stroke-linecap:round" />
+  <circle
+     cx="310"
+     cy="190"
+     r="6"
+     fill="#111111"
+     id="circle18"
+     style="stroke-linecap:round" />
+  <path
+     d="m 310,190 90,-65"
+     fill="none"
+     stroke="#dd1111"
+     stroke-width="3"
+     marker-end="url(#arrowRed)"
+     id="path19"
+     style="stroke-linecap:round" />
+  <!-- ===== Right panel: increase sigma ===== -->
+  <g
+     id="g27">
+    <!-- random-walk segments (black) -->
+    <path
+       d="M 550 190 L 610 190"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path20" />
+    <path
+       d="M 610 190 L 650 170"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path21" />
+    <path
+       d="M 650 170 L 650 140"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path22" />
+    <path
+       d="M 650 140 L 690 120"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path23" />
+    <path
+       d="M 690 120 L 690 85"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path24" />
+    <path
+       d="M 690 85 L 740 60"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path25" />
+    <path
+       d="M 740 60 L 740 40"
+       fill="none"
+       stroke="#111"
+       stroke-width="2"
+       marker-end="url(#arrowBlack)"
+       id="path26" />
+    <!-- start point -->
+    <circle
+       cx="550"
+       cy="190"
+       r="6"
+       fill="#111"
+       id="circle26" />
+    <!-- mean-step direction (red) -->
+    <path
+       d="M 550 190 L 740 40"
+       fill="none"
+       stroke="#d11"
+       stroke-width="3"
+       marker-end="url(#arrowRed)"
+       id="path27" />
+  </g>
+  <!-- Bottom annotations -->
+  <g
+     font-family="sans-serif"
+     id="g30">
+    <!-- left annotation -->
+    <text
+       x="140"
+       y="255"
+       font-size="26"
+       text-anchor="middle"
+       fill="#111"
+       id="text27">⇓</text>
+    <text
+       x="140"
+       y="292"
+       font-size="28"
+       font-weight="700"
+       text-anchor="middle"
+       fill="#111"
+       id="text28">
+      decrease <tspan
+   fill="#2aa52a"
+   id="tspan27">σ</tspan></text>
+    <!-- right annotation -->
+    <text
+       x="655"
+       y="255"
+       font-size="26"
+       text-anchor="middle"
+       fill="#111"
+       id="text29">⇓</text>
+    <text
+       x="655"
+       y="292"
+       font-size="28"
+       font-weight="700"
+       text-anchor="middle"
+       fill="#111"
+       id="text30">
+      increase <tspan
+   fill="#2aa52a"
+   id="tspan29">σ</tspan></text>
+  </g>
+</svg>
